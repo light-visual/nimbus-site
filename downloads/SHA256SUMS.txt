@@ -1,4 +1,4 @@
-b916972dafa9bd2894af79bc73f76a75c8743931bda2d18b8d7f73bb1f36355b  LightVisualLauncher-Setup-1.3.10.exe
-2eb9cf9ff668d43de8c8a19f697584bfdb4f10e329ee3e88a7916a16c4fdc639  LightVisualLauncher-1.3.10-win32-x64.zip
-a073eba7b14971d94ee5fdb3f1f4dc6b614db12a2e936ed049628f2ce0958477  LightVisualLauncher-Setup-1.3.10.zip
-d41d42a053493332af2787c94c5a6b61b84b0a55e2d53e8b63a73ce10a6ee787  light-visual-1.21.11-2.0.4.jar
+3eb0fd6be257341f4508fb1e8f70cf5f00a26091ae321e02f133f1bdf7d096e3  LightVisualLauncher-Setup-1.3.11.exe
+3be4c9b9ab4c20e4356c0906bff760838e4a39fbea4b7aac7f1d2c000cf590bc  LightVisualLauncher-1.3.11-win32-x64.zip
+284c831b1e8edccee50ada07fdad78145a440ffe0245ce5798be6b0cee57db9c  LightVisualLauncher-Setup-1.3.11.zip
+e83a66856a4ba420df2c1548e3292594e323e0da0fb525f141115a3571dd4ece  light-visual-1.21.11-2.0.6.jar
